@@ -1,0 +1,1 @@
+#include "Parcial1/DA_PhotoObject.h"
